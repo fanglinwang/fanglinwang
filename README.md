@@ -2,7 +2,7 @@
  
 👩🏻‍💻  I’m currently learning full stack technologies and searching for software engineer jobs.
 
-🌱 I worked as software engineer intern - Machine learning Area at Xpeng.
+🌱 I worked as Software - Machine Learning engineer intern - Machine learning Area at Xpeng.
 
 💬 Ask me anything about NLP, Python, Java.
 
